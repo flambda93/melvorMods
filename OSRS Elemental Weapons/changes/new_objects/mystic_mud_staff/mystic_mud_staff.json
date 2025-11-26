@@ -96,6 +96,32 @@
                     ]
                 }
             }
+        ],
+        "shopPurchases": [
+            {
+                "id": "test_shop_purchase",
+                "media": "flambda:/changes/new_objects/mystic_mud_staff/mystic_mud_staff.svg",
+                "category": "melvorD:Materials",
+                "contains": {
+                    "items": [
+                        {
+                            "id": "flambda:Mystic_Mud_Staff",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                "cost": {
+                    "items": [],
+                    "currencies": [
+                        {
+                            "currency": "melvorD:GP",
+                            "type": "Fixed",
+                            "cost": 0
+                        }
+                    ]
+                }
+                
+            }
         ]
     }
 }
