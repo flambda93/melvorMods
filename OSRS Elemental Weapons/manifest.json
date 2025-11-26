@@ -1,0 +1,9 @@
+{
+  "namespace": "flambda",
+  "setup": "src/setup.mjs",
+  "load": [
+    "json/shopConfig.json",
+    "json/items.json",
+    "json/shop.json"
+  ]
+}
