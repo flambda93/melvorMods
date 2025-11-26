@@ -1,0 +1,101 @@
+{
+    "$schema": "https://melvoridle.com/assets/schema/gameData.json",
+    "data": {
+        "items": [
+            {
+                "id": "Mystic_Mud_Staff",
+                "name": "Mystic Mud Staff",
+                "category": "Combat",
+                "type": "Magic Staff",
+                "media": "flambda:/changes/new_objects/mystic_mud_staff/mystic_mud_staff.svg",
+                "ignoreCompletion": false,
+                "obtainFromItemLog": false,
+                "golbinRaidExclusive": false,
+                "sellsFor": 6900,
+                "customDescription": "Provides unlimited water, earth and mud runes when equipped as a Weapon.",
+                "tier": "staff",
+                "validSlots": [
+                    "Weapon"
+                ],
+                "occupiesSlots": [],
+                "equipRequirements": [
+                    {
+                        "type": "SkillLevel",
+                        "skillID": "melvorD:Magic",
+                        "level": 40
+                    }
+                ],
+                "equipmentStats": [
+                    {
+                        "key": "attackSpeed",
+                        "value": 3000
+                    },
+                    {
+                        "key": "magicAttackBonus",
+                        "value": 23
+                    },
+                    {
+                        "key": "magicDamageBonus",
+                        "value": 20
+                    },
+                    {
+                        "key": "meleeDefenceBonus",
+                        "value": 3
+                    },
+                    {
+                        "key": "magicDefenceBonus",
+                        "value": 23
+                    }
+                ],
+                "providedRunes": [
+                    {
+                        "id": "melvorD:Water_Rune",
+                        "quantity": 100
+                    },
+                    {
+                        "id": "melvorD:Earth_Rune",
+                        "quantity": 100
+                    },
+                    {
+                        "id": "melvorF:Mud_Rune",
+                        "quantity": 100
+                    }
+                ],
+                "itemType": "Weapon",
+                "attackType": "magic"
+            }
+        ],
+        "skillData": [
+            {
+                "skillID": "melvorD:Runecrafting",
+                "data": {
+                    "recipes": [
+                        {
+                            "id": "Mystic_Mud_Staff",
+                            "level": 75,
+                            "productID": "flambda:Mystic_Mud_Staff",
+                            "baseQuantity": 1,
+                            "baseExperience": 75,
+                            "categoryID": "melvorF:StavesWands",
+                            "itemCosts": [
+                                {
+                                    "id": "melvorF:Staff_of_Air",
+                                    "quantity": 1
+                                },
+                                {
+                                    "id": "melvorD:Magic_Logs",
+                                    "quantity": 1
+                                },
+                                {
+                                    "id": "melvorF:Mud_Rune",
+                                    "quantity": 1
+                                }
+                            ],
+                            "currencyCosts": []
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

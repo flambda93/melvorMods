@@ -1,0 +1,63 @@
+{
+    "$schema": "https://melvoridle.com/assets/schema/gameData.json",
+    "modifications": {
+        "items": [
+            {
+                "id": "melvorF:Air_Imbued_Wand",
+                "providedRunes": {
+                    "remove": [
+                        "melvorD:Air_Rune"
+                    ],
+                    "add": [
+                        {
+                            "id": "melvorD:Air_Rune",
+                            "quantity": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "melvorF:Water_Imbued_Wand",
+                "providedRunes": {
+                    "remove": [
+                        "melvorD:Water_Rune"
+                    ],
+                    "add": [
+                        {
+                            "id": "melvorD:Water_Rune",
+                            "quantity": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "melvorF:Earth_Imbued_Wand",
+                "providedRunes": {
+                    "remove": [
+                        "melvorD:Earth_Rune"
+                    ],
+                    "add": [
+                        {
+                            "id": "melvorD:Earth_Rune",
+                            "quantity": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "melvorF:Fire_Imbued_Wand",
+                "providedRunes": {
+                    "remove": [
+                        "melvorD:Fire_Rune"
+                    ],
+                    "add": [
+                        {
+                            "id": "melvorD:Fire_Rune",
+                            "quantity": 100
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

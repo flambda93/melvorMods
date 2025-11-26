@@ -1,8 +1,12 @@
 {
   "namespace": "flambda",
   "setup": "src/setup.mjs",
-  "icon": "media/mystic_mud_staff.svg",
+  "icon": "changes/new_data/mystic_mud_staff/mystic_mud_staff.svg",
   "load": [
-    "json/osrsElementalWeapons.json"
+    "changes/modified_objects/basic_staves.json",
+    "changes/modified_objects/battlestaves.json",
+    "changes/modified_objects/mystic_staves.json",
+    "changes/modified_objects/imbued_wands.json",
+    "changes/new_objects/mystic_mud_staff/mystic_mud_staff.json"
   ]
 }
