@@ -7,7 +7,7 @@
                 "name": "Mystic Mud Staff",
                 "category": "Combat",
                 "type": "Magic Staff",
-                "media": "flambda:/changes/new_objects/mystic_mud_staff/mystic_mud_staff.svg",
+                "media": "changes/new_objects/mystic_mud_staff/mystic_mud_staff.svg",
                 "ignoreCompletion": false,
                 "obtainFromItemLog": false,
                 "golbinRaidExclusive": false,
@@ -100,7 +100,7 @@
         "shopPurchases": [
             {
                 "id": "test_shop_purchase",
-                "media": "flambda:/changes/new_objects/mystic_mud_staff/mystic_mud_staff.svg",
+                "media": "changes/new_objects/mystic_mud_staff/mystic_mud_staff.svg",
                 "category": "melvorD:Materials",
                 "contains": {
                     "items": [
