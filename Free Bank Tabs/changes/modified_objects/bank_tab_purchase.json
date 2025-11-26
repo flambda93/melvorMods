@@ -1,0 +1,25 @@
+{
+    "$schema": "https://melvoridle.com/assets/schema/gameData.json",
+    "modifications": {
+        "shopPurchases": [
+            {
+                "id": "melvorF:ExtraBankTab",
+                "cost": [
+                    {
+                        "gamemodeID": "melvorD:Standard",
+                        "newCosts": {
+                            "items": [],
+                            "currencies": [
+                                {
+                                    "currency": "melvorD:GP",
+                                    "type": "Fixed",
+                                    "cost": 0
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

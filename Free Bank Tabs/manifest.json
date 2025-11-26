@@ -1,0 +1,8 @@
+{
+  "namespace": "flambda",
+  "setup": "src/setup.mjs",
+  "icon": "melvor:assets/media/main/extra_bank_tab.png",
+  "load": [
+    "changes/modified_objects/bank_tab_purchase.json"
+  ]
+}
