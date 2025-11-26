@@ -1,6 +1,7 @@
 {
   "namespace": "flambda",
   "setup": "src/setup.mjs",
+  "icon": "media/mystic_mud_staff.svg",
   "load": [
     "json/osrsElementalWeapons.json"
   ]
