@@ -22,7 +22,7 @@
                 }
             },
             {
-                "id": "melvorD:Mystic_Water_Staff",
+                "id": "melvorF:Mystic_Water_Staff",
                 "occupiesSlots": {
                     "remove": [
                         "Shield"
@@ -41,7 +41,7 @@
                 }
             },
             {
-                "id": "melvorD:Mystic_Earth_Staff",
+                "id": "melvorF:Mystic_Earth_Staff",
                 "occupiesSlots": {
                     "remove": [
                         "Shield"
@@ -60,7 +60,7 @@
                 }
             },
             {
-                "id": "melvorD:Mystic_Fire_Staff",
+                "id": "melvorF:Mystic_Fire_Staff",
                 "occupiesSlots": {
                     "remove": [
                         "Shield"
@@ -68,7 +68,7 @@
                 },
                 "providedRunes": {
                     "remove": [
-                        "melvorD:Fire_Rune"
+                        "melvorF:Fire_Rune"
                     ],
                     "add": [
                         {

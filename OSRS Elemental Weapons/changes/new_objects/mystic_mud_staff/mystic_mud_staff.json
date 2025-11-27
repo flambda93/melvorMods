@@ -111,16 +111,23 @@
                     ]
                 },
                 "cost": {
-                    "items": [],
-                    "currencies": [
-                        {
-                            "currency": "melvorD:GP",
-                            "type": "Fixed",
-                            "cost": 0
-                        }
-                    ]
-                }
-                
+                    "items": []
+                },
+                "allowQuantityPurchase": true,
+                "unlockRequirements": [],
+                "purchaseRequirements": [],
+                "defaultBuyLimit": 0,
+                "buyLimitOverrides": [],
+                "showBuyLimit": true
+            }
+        ],
+        "shopDisplayOrder": [
+            {
+                "insertAt": "After",
+                "afterID": "melvorF:Leather",
+                "ids": [
+                    "flambda:test_shop_purchase"
+                ]
             }
         ]
     }
