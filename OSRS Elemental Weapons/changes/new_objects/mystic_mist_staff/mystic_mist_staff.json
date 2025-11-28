@@ -3,21 +3,21 @@
     "data": {
         "items": [
             {
-                "id": "Mystic_Mud_Staff",
-                "name": "Mystic Mud Staff",
-                "media": "changes/new_objects/mystic_mud_staff/mystic_mud_staff.png",
-                "customDescription": "Provides unlimited Water, Earth and Mud Runes when equipped as a Weapon.",
+                "id": "Mystic_Mist_Staff",
+                "name": "Mystic Mist Staff",
+                "media": "changes/new_objects/mystic_mist_staff/mystic_mist_staff.png",
+                "customDescription": "Provides unlimited Air, Water and Mist Runes when equipped as a Weapon.",
                 "providedRunes": [
+                    {
+                        "id": "melvorD:Air_Rune",
+                        "quantity": 100
+                    },
                     {
                         "id": "melvorD:Water_Rune",
                         "quantity": 100
                     },
                     {
-                        "id": "melvorD:Earth_Rune",
-                        "quantity": 100
-                    },
-                    {
-                        "id": "melvorF:Mud_Rune",
+                        "id": "melvorD:Mist_Rune",
                         "quantity": 100
                     }
                 ],
@@ -71,13 +71,11 @@
                 "data": {
                     "recipes": [
                         {
-                            "id": "Mystic_Mud_Staff",
-                            "productID": "flambda:Mystic_Mud_Staff",
-                            "level": 79,
-                            "baseExperience": 88,
+                            "id": "Mystic_Mist_Staff",
+                            "productID": "flambda:Mystic_Mist_Staff",
                             "itemCosts": [
                                 {
-                                    "id": "flambda:Mud_Battlestaff",
+                                    "id": "flambda:Mist_Battlestaff",
                                     "quantity": 10
                                 },
                                 {
@@ -85,10 +83,12 @@
                                     "quantity": 1
                                 },
                                 {
-                                    "id": "melvorF:Mud_Rune",
+                                    "id": "melvorD:Mist_Rune",
                                     "quantity": 200
                                 }
                             ],
+                            "level": 75,
+                            "baseExperience": 83,
                             "baseQuantity": 1,
                             "categoryID": "melvorF:StavesWands",
                             "currencyCosts": []

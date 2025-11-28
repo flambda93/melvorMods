@@ -3,13 +3,13 @@
     "data": {
         "items": [
             {
-                "id": "Mystic_Mud_Staff",
-                "name": "Mystic Mud Staff",
-                "media": "changes/new_objects/mystic_mud_staff/mystic_mud_staff.png",
-                "customDescription": "Provides unlimited Water, Earth and Mud Runes when equipped as a Weapon.",
+                "id": "Mystic_Dust_Staff",
+                "name": "Mystic Dust Staff",
+                "media": "changes/new_objects/mystic_dust_staff/mystic_dust_staff.png",
+                "customDescription": "Provides unlimited Air, Earth and Dust Runes when equipped as a Weapon.",
                 "providedRunes": [
                     {
-                        "id": "melvorD:Water_Rune",
+                        "id": "melvorD:Air_Rune",
                         "quantity": 100
                     },
                     {
@@ -17,7 +17,7 @@
                         "quantity": 100
                     },
                     {
-                        "id": "melvorF:Mud_Rune",
+                        "id": "melvorD:Dust_Rune",
                         "quantity": 100
                     }
                 ],
@@ -71,13 +71,13 @@
                 "data": {
                     "recipes": [
                         {
-                            "id": "Mystic_Mud_Staff",
-                            "productID": "flambda:Mystic_Mud_Staff",
+                            "id": "Mystic_Dust_Staff",
+                            "productID": "flambda:Mystic_Dust_Staff",
                             "level": 79,
-                            "baseExperience": 88,
+                            "baseExperience": 87,
                             "itemCosts": [
                                 {
-                                    "id": "flambda:Mud_Battlestaff",
+                                    "id": "flambda:Dust_Battlestaff",
                                     "quantity": 10
                                 },
                                 {
@@ -85,7 +85,7 @@
                                     "quantity": 1
                                 },
                                 {
-                                    "id": "melvorF:Mud_Rune",
+                                    "id": "melvorD:Dust_Rune",
                                     "quantity": 200
                                 }
                             ],

@@ -1,11 +1,29 @@
 {
   "namespace": "flambda",
   "setup": "src/setup.mjs",
-  "icon": "changes/new_objects/mystic_mud_staff/mystic_mud_staff.svg",
+  "icon": "changes/new_objects/imbued_wand_lava/lava_imbued_wand.png",
   "load": [
     "changes/modified_objects/basic_staves.json",
     "changes/modified_objects/battlestaves.json",
     "changes/modified_objects/mystic_staves.json",
-    "changes/modified_objects/imbued_wands.json"
+    "changes/modified_objects/imbued_wands.json",
+    "changes/new_objects/battlestaff_mist/mist_battlestaff.json",
+    "changes/new_objects/battlestaff_dust/dust_battlestaff.json",
+    "changes/new_objects/battlestaff_mud/mud_battlestaff.json",
+    "changes/new_objects/battlestaff_smoke/smoke_battlestaff.json",
+    "changes/new_objects/battlestaff_steam/steam_battlestaff.json",
+    "changes/new_objects/battlestaff_lava/lava_battlestaff.json",
+    "changes/new_objects/mystic_mist_staff/mystic_mist_staff.json",
+    "changes/new_objects/mystic_dust_staff/mystic_dust_staff.json",
+    "changes/new_objects/mystic_mud_staff/mystic_mud_staff.json",
+    "changes/new_objects/mystic_smoke_staff/mystic_smoke_staff.json",
+    "changes/new_objects/mystic_steam_staff/mystic_steam_staff.json",
+    "changes/new_objects/mystic_lava_staff/mystic_lava_staff.json",
+    "changes/new_objects/imbued_wand_mist/mist_imbued_wand.json",
+    "changes/new_objects/imbued_wand_dust/dust_imbued_wand.json",
+    "changes/new_objects/imbued_wand_mud/mud_imbued_wand.json",
+    "changes/new_objects/imbued_wand_smoke/smoke_imbued_wand.json",
+    "changes/new_objects/imbued_wand_steam/steam_imbued_wand.json",
+    "changes/new_objects/imbued_wand_lava/lava_imbued_wand.json"
   ]
 }

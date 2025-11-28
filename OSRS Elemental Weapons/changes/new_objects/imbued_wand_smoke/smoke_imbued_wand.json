@@ -3,31 +3,31 @@
     "data": {
         "items": [
             {
-                "id": "Mystic_Mud_Staff",
-                "name": "Mystic Mud Staff",
-                "media": "changes/new_objects/mystic_mud_staff/mystic_mud_staff.png",
-                "customDescription": "Provides unlimited Water, Earth and Mud Runes when equipped as a Weapon.",
+                "id": "Smoke_Imbued_Wand",
+                "name": "Smoke Imbued Wand",
+                "media": "changes/new_objects/imbued_wand_smoke/smoke_imbued_wand.png",
+                "customDescription": "Provides unlimited Air, Fire and Smoke Runes when equipped as a Weapon.",
                 "providedRunes": [
                     {
-                        "id": "melvorD:Water_Rune",
+                        "id": "melvorD:Air_Rune",
                         "quantity": 100
                     },
                     {
-                        "id": "melvorD:Earth_Rune",
+                        "id": "melvorD:Fire_Rune",
                         "quantity": 100
                     },
                     {
-                        "id": "melvorF:Mud_Rune",
+                        "id": "melvorD:Smoke_Rune",
                         "quantity": 100
                     }
                 ],
                 "category": "Combat",
-                "type": "Magic Staff",
+                "type": "Magic Wand",
                 "ignoreCompletion": false,
                 "obtainFromItemLog": false,
                 "golbinRaidExclusive": false,
-                "sellsFor": 6900,
-                "tier": "staff",
+                "sellsFor": 135000,
+                "tier": "wand",
                 "validSlots": [
                     "Weapon"
                 ],
@@ -36,30 +36,29 @@
                     {
                         "type": "SkillLevel",
                         "skillID": "melvorD:Magic",
-                        "level": 40
+                        "level": 70
                     }
                 ],
                 "equipmentStats": [
                     {
                         "key": "attackSpeed",
-                        "value": 3000
+                        "value": 2600
                     },
                     {
                         "key": "magicAttackBonus",
-                        "value": 23
+                        "value": 32
                     },
                     {
                         "key": "magicDamageBonus",
-                        "value": 20
-                    },
-                    {
-                        "key": "meleeDefenceBonus",
-                        "value": 3
+                        "value": 18
                     },
                     {
                         "key": "magicDefenceBonus",
-                        "value": 23
+                        "value": 32
                     }
+                ],
+                "specialAttacks": [
+                    "melvorD:BruteForce"
                 ],
                 "itemType": "Weapon",
                 "attackType": "magic"
@@ -71,24 +70,24 @@
                 "data": {
                     "recipes": [
                         {
-                            "id": "Mystic_Mud_Staff",
-                            "productID": "flambda:Mystic_Mud_Staff",
-                            "level": 79,
-                            "baseExperience": 88,
+                            "id": "Smoke_Imbued_Wand",
+                            "productID": "flambda:Smoke_Imbued_Wand",
                             "itemCosts": [
                                 {
-                                    "id": "flambda:Mud_Battlestaff",
-                                    "quantity": 10
+                                    "id": "melvorD:Smoke_Rune",
+                                    "quantity": 2000
                                 },
                                 {
-                                    "id": "melvorD:Magic_Logs",
+                                    "id": "melvorD:Magic_Wand_Elite",
                                     "quantity": 1
                                 },
                                 {
-                                    "id": "melvorF:Mud_Rune",
-                                    "quantity": 200
+                                    "id": "melvorF:Nature_Rune",
+                                    "quantity": 40
                                 }
                             ],
+                            "level": 95,
+                            "baseExperience": 470,
                             "baseQuantity": 1,
                             "categoryID": "melvorF:StavesWands",
                             "currencyCosts": []

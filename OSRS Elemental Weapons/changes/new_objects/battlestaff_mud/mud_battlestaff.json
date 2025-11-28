@@ -3,9 +3,9 @@
     "data": {
         "items": [
             {
-                "id": "Mystic_Mud_Staff",
-                "name": "Mystic Mud Staff",
-                "media": "changes/new_objects/mystic_mud_staff/mystic_mud_staff.png",
+                "id": "Mud_Battlestaff",
+                "name": "Mud Battlestaff",
+                "media": "changes/new_objects/battlestaff_mud/mud_battlestaff.png",
                 "customDescription": "Provides unlimited Water, Earth and Mud Runes when equipped as a Weapon.",
                 "providedRunes": [
                     {
@@ -26,7 +26,7 @@
                 "ignoreCompletion": false,
                 "obtainFromItemLog": false,
                 "golbinRaidExclusive": false,
-                "sellsFor": 6900,
+                "sellsFor": 730,
                 "tier": "staff",
                 "validSlots": [
                     "Weapon"
@@ -36,7 +36,7 @@
                     {
                         "type": "SkillLevel",
                         "skillID": "melvorD:Magic",
-                        "level": 40
+                        "level": 30
                     }
                 ],
                 "equipmentStats": [
@@ -46,11 +46,7 @@
                     },
                     {
                         "key": "magicAttackBonus",
-                        "value": 23
-                    },
-                    {
-                        "key": "magicDamageBonus",
-                        "value": 20
+                        "value": 15
                     },
                     {
                         "key": "meleeDefenceBonus",
@@ -58,7 +54,11 @@
                     },
                     {
                         "key": "magicDefenceBonus",
-                        "value": 23
+                        "value": 15
+                    },
+                    {
+                        "key": "magicDamageBonus",
+                        "value": 10
                     }
                 ],
                 "itemType": "Weapon",
@@ -71,17 +71,21 @@
                 "data": {
                     "recipes": [
                         {
-                            "id": "Mystic_Mud_Staff",
-                            "productID": "flambda:Mystic_Mud_Staff",
-                            "level": 79,
-                            "baseExperience": 88,
+                            "id": "Mud_Battlestaff",
+                            "productID": "flambda:Mud_Battlestaff",
+                            "level": 39,
+                            "baseExperience": 48,
                             "itemCosts": [
                                 {
-                                    "id": "flambda:Mud_Battlestaff",
+                                    "id": "melvorF:Staff_of_Water",
                                     "quantity": 10
                                 },
                                 {
-                                    "id": "melvorD:Magic_Logs",
+                                    "id": "melvorF:Staff_of_Earth",
+                                    "quantity": 10
+                                },
+                                {
+                                    "id": "melvorD:Maple_Logs",
                                     "quantity": 1
                                 },
                                 {

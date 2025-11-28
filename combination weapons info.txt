@@ -1,26 +1,24 @@
-specks size 4
-
-mud:
-	light: 35300f
-	dark: 28240b
-	specks: 2d0e0a
-steam:
-	light: 89adae
-	dark: 527172
-	specks: #cadbdd
-lava:
-	light: eea856
-	dark: a86d28
-	specks: be8341
-smoke:
-	light: 4e4e4b
-	dark: 4e4e4b
-	specks: c1c1c0
-dust
-	light: 7e6b45
-	dark: 625335
-	specks: ada1a0
 mist
-	light: cfc8c8
-	dark: b9b4b4
-	specks: 868484
+	light: #77868d
+	dark: #647277
+	accent: #97aab3
+mud:
+	light: #a07e54
+	dark: #93754f
+	accent: #bf9664
+steam:
+	light: #87abae
+	dark: #81a0a4
+	accent: #9fc8cb
+lava:
+	light: #ff974d
+	dark: #ed8c4b
+	accent: #ffb179
+smoke:
+	light: #848484
+	dark: #7d7d7d
+	accent: #ababab
+dust
+	light: #92826a
+	dark: #877a66
+	accent: #bca98d
