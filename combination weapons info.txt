@@ -1,7 +1,7 @@
-mist
-	light: #77868d
-	dark: #647277
-	accent: #97aab3
+mist!!!
+	light: #a7a7a7
+	dark: #9c9c9c
+	accent: 
 mud:
 	light: #a07e54
 	dark: #93754f
@@ -14,10 +14,10 @@ lava:
 	light: #ff974d
 	dark: #ed8c4b
 	accent: #ffb179
-smoke:
-	light: #848484
-	dark: #7d7d7d
-	accent: #ababab
+smoke:!!!
+	light: #595959
+	dark: #4e4e4e
+	accent: #807f7f
 dust
 	light: #92826a
 	dark: #877a66

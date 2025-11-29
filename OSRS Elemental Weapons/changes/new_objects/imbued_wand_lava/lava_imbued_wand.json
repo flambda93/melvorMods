@@ -74,12 +74,12 @@
                             "productID": "flambda:Lava_Imbued_Wand",
                             "itemCosts": [
                                 {
-                                    "id": "melvorF:Lava_Rune",
-                                    "quantity": 2000
-                                },
-                                {
                                     "id": "melvorD:Magic_Wand_Elite",
                                     "quantity": 1
+                                },
+                                {
+                                    "id": "melvorF:Lava_Rune",
+                                    "quantity": 2000
                                 },
                                 {
                                     "id": "melvorF:Nature_Rune",

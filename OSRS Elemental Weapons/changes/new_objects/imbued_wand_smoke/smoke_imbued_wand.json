@@ -74,12 +74,12 @@
                             "productID": "flambda:Smoke_Imbued_Wand",
                             "itemCosts": [
                                 {
-                                    "id": "melvorD:Smoke_Rune",
-                                    "quantity": 2000
-                                },
-                                {
                                     "id": "melvorD:Magic_Wand_Elite",
                                     "quantity": 1
+                                },
+                                {
+                                    "id": "melvorD:Smoke_Rune",
+                                    "quantity": 2000
                                 },
                                 {
                                     "id": "melvorF:Nature_Rune",
