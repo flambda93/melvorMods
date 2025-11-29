@@ -1,5 +1,5 @@
 {
-  "namespace": "flambda",
+  "namespace": "flambdaBankTab",
   "setup": "src/setup.mjs",
   "icon": "melvor:assets/media/main/extra_bank_tab.png",
   "load": [
