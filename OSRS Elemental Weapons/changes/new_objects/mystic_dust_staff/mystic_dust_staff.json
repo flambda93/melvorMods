@@ -72,12 +72,12 @@
                     "recipes": [
                         {
                             "id": "Mystic_Dust_Staff",
-                            "productID": "flambdaOsrsElementalWeapons:Mystic_Dust_Staff",
+                            "productID": "flambda:Mystic_Dust_Staff",
                             "level": 79,
                             "baseExperience": 87,
                             "itemCosts": [
                                 {
-                                    "id": "flambdaOsrsElementalWeapons:Dust_Battlestaff",
+                                    "id": "flambda:Dust_Battlestaff",
                                     "quantity": 10
                                 },
                                 {

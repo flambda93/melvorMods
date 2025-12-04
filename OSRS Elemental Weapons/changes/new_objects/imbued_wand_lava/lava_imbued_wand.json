@@ -71,7 +71,7 @@
                     "recipes": [
                         {
                             "id": "Lava_Imbued_Wand",
-                            "productID": "flambdaOsrsElementalWeapons:Lava_Imbued_Wand",
+                            "productID": "flambda:Lava_Imbued_Wand",
                             "itemCosts": [
                                 {
                                     "id": "melvorD:Magic_Wand_Elite",

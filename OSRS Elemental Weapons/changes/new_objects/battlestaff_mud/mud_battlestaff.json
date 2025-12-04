@@ -72,7 +72,7 @@
                     "recipes": [
                         {
                             "id": "Mud_Battlestaff",
-                            "productID": "flambdaOsrsElementalWeapons:Mud_Battlestaff",
+                            "productID": "flambda:Mud_Battlestaff",
                             "level": 39,
                             "baseExperience": 48,
                             "itemCosts": [

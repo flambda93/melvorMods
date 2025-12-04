@@ -72,10 +72,10 @@
                     "recipes": [
                         {
                             "id": "Mystic_Smoke_Staff",
-                            "productID": "flambdaOsrsElementalWeapons:Mystic_Smoke_Staff",
+                            "productID": "flambda:Mystic_Smoke_Staff",
                             "itemCosts": [
                                 {
-                                    "id": "flambdaOsrsElementalWeapons:Smoke_Battlestaff",
+                                    "id": "flambda:Smoke_Battlestaff",
                                     "quantity": 10
                                 },
                                 {

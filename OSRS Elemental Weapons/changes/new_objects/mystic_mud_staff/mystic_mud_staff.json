@@ -72,12 +72,12 @@
                     "recipes": [
                         {
                             "id": "Mystic_Mud_Staff",
-                            "productID": "flambdaOsrsElementalWeapons:Mystic_Mud_Staff",
+                            "productID": "flambda:Mystic_Mud_Staff",
                             "level": 79,
                             "baseExperience": 88,
                             "itemCosts": [
                                 {
-                                    "id": "flambdaOsrsElementalWeapons:Mud_Battlestaff",
+                                    "id": "flambda:Mud_Battlestaff",
                                     "quantity": 10
                                 },
                                 {

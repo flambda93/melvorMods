@@ -72,7 +72,7 @@
                     "recipes": [
                         {
                             "id": "Dust_Battlestaff",
-                            "productID": "flambdaOsrsElementalWeapons:Dust_Battlestaff",
+                            "productID": "flambda:Dust_Battlestaff",
                             "level": 39,
                             "baseExperience": 47,
                             "itemCosts": [

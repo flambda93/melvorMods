@@ -71,7 +71,7 @@
                     "recipes": [
                         {
                             "id": "Steam_Imbued_Wand",
-                            "productID": "flambdaOsrsElementalWeapons:Steam_Imbued_Wand",
+                            "productID": "flambda:Steam_Imbued_Wand",
                             "itemCosts": [
                                 {
                                     "id": "melvorD:Magic_Wand_Elite",

@@ -72,10 +72,10 @@
                     "recipes": [
                         {
                             "id": "Mystic_Lava_Staff",
-                            "productID": "flambdaOsrsElementalWeapons:Mystic_Lava_Staff",
+                            "productID": "flambda:Mystic_Lava_Staff",
                             "itemCosts": [
                                 {
-                                    "id": "flambdaOsrsElementalWeapons:Lava_Battlestaff",
+                                    "id": "flambda:Lava_Battlestaff",
                                     "quantity": 10
                                 },
                                 {

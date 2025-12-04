@@ -72,7 +72,7 @@
                     "recipes": [
                         {
                             "id": "Steam_Battlestaff",
-                            "productID": "flambdaOsrsElementalWeapons:Steam_Battlestaff",
+                            "productID": "flambda:Steam_Battlestaff",
                             "level": 44,
                             "baseExperience": 62,
                             "itemCosts": [

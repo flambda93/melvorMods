@@ -72,7 +72,7 @@
                     "recipes": [
                         {
                             "id": "Mist_Battlestaff",
-                            "productID": "flambdaOsrsElementalWeapons:Mist_Battlestaff",
+                            "productID": "flambda:Mist_Battlestaff",
                             "level": 35,
                             "baseExperience": 42,
                             "itemCosts": [

@@ -6,72 +6,72 @@
                 "insertAt": "After",
                 "afterID": "melvorD:Water_Battlestaff",
                 "ids": [
-                    "flambdaOsrsElementalWeapons:Mist_Battlestaff"
+                    "flambda:Mist_Battlestaff"
                 ]
             },
             {
                 "insertAt": "After",
                 "afterID": "melvorD:Earth_Battlestaff",
                 "ids": [
-                    "flambdaOsrsElementalWeapons:Dust_Battlestaff",
-                    "flambdaOsrsElementalWeapons:Mud_Battlestaff"
+                    "flambda:Dust_Battlestaff",
+                    "flambda:Mud_Battlestaff"
                 ]
             },
             {
                 "insertAt": "After",
                 "afterID": "melvorD:Fire_Battlestaff",
                 "ids": [
-                    "flambdaOsrsElementalWeapons:Smoke_Battlestaff",
-                    "flambdaOsrsElementalWeapons:Steam_Battlestaff",
-                    "flambdaOsrsElementalWeapons:Lava_Battlestaff"
+                    "flambda:Smoke_Battlestaff",
+                    "flambda:Steam_Battlestaff",
+                    "flambda:Lava_Battlestaff"
                 ]
             },
             {
                 "insertAt": "After",
                 "afterID": "melvorF:Mystic_Water_Staff",
                 "ids": [
-                    "flambdaOsrsElementalWeapons:Mystic_Mist_Staff"
+                    "flambda:Mystic_Mist_Staff"
                 ]
             },
             {
                 "insertAt": "After",
                 "afterID": "melvorF:Mystic_Earth_Staff",
                 "ids": [
-                    "flambdaOsrsElementalWeapons:Mystic_Dust_Staff",
-                    "flambdaOsrsElementalWeapons:Mystic_Mud_Staff"
+                    "flambda:Mystic_Dust_Staff",
+                    "flambda:Mystic_Mud_Staff"
                 ]
             },
             {
                 "insertAt": "After",
                 "afterID": "melvorF:Mystic_Fire_Staff",
                 "ids": [
-                    "flambdaOsrsElementalWeapons:Mystic_Smoke_Staff",
-                    "flambdaOsrsElementalWeapons:Mystic_Steam_Staff",
-                    "flambdaOsrsElementalWeapons:Mystic_Lava_Staff"
+                    "flambda:Mystic_Smoke_Staff",
+                    "flambda:Mystic_Steam_Staff",
+                    "flambda:Mystic_Lava_Staff"
                 ]
             },
             {
                 "insertAt": "After",
                 "afterID": "melvorF:Water_Imbued_Wand",
                 "ids": [
-                    "flambdaOsrsElementalWeapons:Mist_Imbued_Wand"
+                    "flambda:Mist_Imbued_Wand"
                 ]
             },
             {
                 "insertAt": "After",
                 "afterID": "melvorF:Earth_Imbued_Wand",
                 "ids": [
-                    "flambdaOsrsElementalWeapons:Dust_Imbued_Wand",
-                    "flambdaOsrsElementalWeapons:Mud_Imbued_Wand"
+                    "flambda:Dust_Imbued_Wand",
+                    "flambda:Mud_Imbued_Wand"
                 ]
             },
             {
                 "insertAt": "After",
                 "afterID": "melvorF:Fire_Imbued_Wand",
                 "ids": [
-                    "flambdaOsrsElementalWeapons:Smoke_Imbued_Wand",
-                    "flambdaOsrsElementalWeapons:Steam_Imbued_Wand",
-                    "flambdaOsrsElementalWeapons:Lava_Imbued_Wand"
+                    "flambda:Smoke_Imbued_Wand",
+                    "flambda:Steam_Imbued_Wand",
+                    "flambda:Lava_Imbued_Wand"
                 ]
             }
         ]
