@@ -1,0 +1,42 @@
+{
+    "$schema": "https://melvoridle.com/assets/schema/gameData.json",
+    "modifications": {
+        "items": [
+            {
+                "id": "melvorF:Cloudburst_Staff",
+                "occupiesSlots": {
+                    "remove": [
+                        "Shield"
+                    ]
+                },
+                "providedRunes": {
+                    "remove": [
+                        "melvorD:Water_Rune"
+                    ],
+                    "add": [
+                        {
+                            "id": "melvorD:Water_Rune",
+                            "quantity": 100
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "melvorF:Natures_Call_Staff",
+                "occupiesSlots": {
+                    "remove": [
+                        "Shield"
+                    ]
+                }
+            },
+            {
+                "id": "melvorF:Natures_Wrath_Staff",
+                "occupiesSlots": {
+                    "remove": [
+                        "Shield"
+                    ]
+                }
+            }
+        ]
+    }
+}
