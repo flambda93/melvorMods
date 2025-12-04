@@ -71,7 +71,7 @@
                     "recipes": [
                         {
                             "id": "Smoke_Imbued_Wand",
-                            "productID": "flambda:Smoke_Imbued_Wand",
+                            "productID": "flambdaOsrsElementalWeapons:Smoke_Imbued_Wand",
                             "itemCosts": [
                                 {
                                     "id": "melvorD:Magic_Wand_Elite",

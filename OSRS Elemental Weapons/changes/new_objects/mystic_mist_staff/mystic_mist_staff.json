@@ -72,10 +72,10 @@
                     "recipes": [
                         {
                             "id": "Mystic_Mist_Staff",
-                            "productID": "flambda:Mystic_Mist_Staff",
+                            "productID": "flambdaOsrsElementalWeapons:Mystic_Mist_Staff",
                             "itemCosts": [
                                 {
-                                    "id": "flambda:Mist_Battlestaff",
+                                    "id": "flambdaOsrsElementalWeapons:Mist_Battlestaff",
                                     "quantity": 10
                                 },
                                 {

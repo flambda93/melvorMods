@@ -71,7 +71,7 @@
                     "recipes": [
                         {
                             "id": "Mist_Imbued_Wand",
-                            "productID": "flambda:Mist_Imbued_Wand",
+                            "productID": "flambdaOsrsElementalWeapons:Mist_Imbued_Wand",
                             "itemCosts": [
                                 {
                                     "id": "melvorD:Magic_Wand_Elite",

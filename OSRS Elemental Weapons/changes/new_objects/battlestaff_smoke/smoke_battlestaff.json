@@ -72,7 +72,7 @@
                     "recipes": [
                         {
                             "id": "Smoke_Battlestaff",
-                            "productID": "flambda:Smoke_Battlestaff",
+                            "productID": "flambdaOsrsElementalWeapons:Smoke_Battlestaff",
                             "level": 44,
                             "baseExperience": 57,
                             "itemCosts": [

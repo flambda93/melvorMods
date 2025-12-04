@@ -72,7 +72,7 @@
                     "recipes": [
                         {
                             "id": "Lava_Battlestaff",
-                            "productID": "flambda:Lava_Battlestaff",
+                            "productID": "flambdaOsrsElementalWeapons:Lava_Battlestaff",
                             "level": 44,
                             "baseExperience": 67,
                             "itemCosts": [

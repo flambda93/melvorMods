@@ -1,0 +1,79 @@
+{
+    "$schema": "https://melvoridle.com/assets/schema/gameData.json",
+    "data": {
+        "bankSortOrder": [
+            {
+                "insertAt": "After",
+                "afterID": "melvorD:Water_Battlestaff",
+                "ids": [
+                    "flambdaOsrsElementalWeapons:Mist_Battlestaff"
+                ]
+            },
+            {
+                "insertAt": "After",
+                "afterID": "melvorD:Earth_Battlestaff",
+                "ids": [
+                    "flambdaOsrsElementalWeapons:Dust_Battlestaff",
+                    "flambdaOsrsElementalWeapons:Mud_Battlestaff"
+                ]
+            },
+            {
+                "insertAt": "After",
+                "afterID": "melvorD:Fire_Battlestaff",
+                "ids": [
+                    "flambdaOsrsElementalWeapons:Smoke_Battlestaff",
+                    "flambdaOsrsElementalWeapons:Steam_Battlestaff",
+                    "flambdaOsrsElementalWeapons:Lava_Battlestaff"
+                ]
+            },
+            {
+                "insertAt": "After",
+                "afterID": "melvorF:Mystic_Water_Staff",
+                "ids": [
+                    "flambdaOsrsElementalWeapons:Mystic_Mist_Staff"
+                ]
+            },
+            {
+                "insertAt": "After",
+                "afterID": "melvorF:Mystic_Earth_Staff",
+                "ids": [
+                    "flambdaOsrsElementalWeapons:Mystic_Dust_Staff",
+                    "flambdaOsrsElementalWeapons:Mystic_Mud_Staff"
+                ]
+            },
+            {
+                "insertAt": "After",
+                "afterID": "melvorF:Mystic_Fire_Staff",
+                "ids": [
+                    "flambdaOsrsElementalWeapons:Mystic_Smoke_Staff",
+                    "flambdaOsrsElementalWeapons:Mystic_Steam_Staff",
+                    "flambdaOsrsElementalWeapons:Mystic_Lava_Staff"
+                ]
+            },
+            {
+                "insertAt": "After",
+                "afterID": "melvorF:Water_Imbued_Wand",
+                "ids": [
+                    "flambdaOsrsElementalWeapons:Mist_Imbued_Wand"
+                ]
+            },
+            {
+                "insertAt": "After",
+                "afterID": "melvorF:Earth_Imbued_Wand",
+                "ids": [
+                    "flambdaOsrsElementalWeapons:Dust_Imbued_Wand",
+                    "flambdaOsrsElementalWeapons:Mud_Imbued_Wand"
+                ]
+            },
+            {
+                "insertAt": "After",
+                "afterID": "melvorF:Fire_Imbued_Wand",
+                "ids": [
+                    "flambdaOsrsElementalWeapons:Smoke_Imbued_Wand",
+                    "flambdaOsrsElementalWeapons:Steam_Imbued_Wand",
+                    "flambdaOsrsElementalWeapons:Lava_Imbued_Wand"
+                ]
+            }
+        ]
+    }
+}

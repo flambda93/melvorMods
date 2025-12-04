@@ -1,5 +1,5 @@
 {
-  "namespace": "flambda",
+  "namespace": "flambdaOsrsElementalWeapons",
   "setup": "src/setup.mjs",
   "icon": "changes/new_objects/imbued_wand_lava/lava_imbued_wand.png",
   "load": [
@@ -24,6 +24,7 @@
     "changes/new_objects/imbued_wand_mud/mud_imbued_wand.json",
     "changes/new_objects/imbued_wand_smoke/smoke_imbued_wand.json",
     "changes/new_objects/imbued_wand_steam/steam_imbued_wand.json",
-    "changes/new_objects/imbued_wand_lava/lava_imbued_wand.json"
+    "changes/new_objects/imbued_wand_lava/lava_imbued_wand.json",
+    "changes/new_objects/bankSortOrder.json"
   ]
 }

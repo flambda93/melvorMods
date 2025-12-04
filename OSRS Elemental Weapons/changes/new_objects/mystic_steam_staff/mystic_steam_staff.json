@@ -72,10 +72,10 @@
                     "recipes": [
                         {
                             "id": "Mystic_Steam_Staff",
-                            "productID": "flambda:Mystic_Steam_Staff",
+                            "productID": "flambdaOsrsElementalWeapons:Mystic_Steam_Staff",
                             "itemCosts": [
                                 {
-                                    "id": "flambda:Steam_Battlestaff",
+                                    "id": "flambdaOsrsElementalWeapons:Steam_Battlestaff",
                                     "quantity": 10
                                 },
                                 {
