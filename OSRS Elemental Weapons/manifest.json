@@ -1,5 +1,5 @@
 {
-  "namespace": "flambdaOsrsElementalWeapons",
+  "namespace": "flambda",
   "setup": "src/setup.mjs",
   "icon": "changes/new_objects/imbued_wand_lava/lava_imbued_wand.png",
   "load": [
